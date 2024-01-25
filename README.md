@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hollandD2
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ???
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning and teaching data science
 - 📫 How to reach me hollandd2@okaloosaschools.com
 
 <!---
